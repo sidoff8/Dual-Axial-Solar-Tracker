@@ -5,6 +5,15 @@
   <img src="https://cdn.instructables.com/FLE/5Q6B/I6QD5WDR/FLE5Q6BI6QD5WDR.LARGE.jpg?auto=webp&width=1024&fit=bounds">
   <h2>Hardware Requirements</h2>
   <ul>
-    <li>Solar Panel</li>
+    <li>5.5V Solar Cell</li>
     <li>Atmega Microcontroller</li>
+    <li>Arduino Uno + USB Cable</li>
+    <li>2 Servo Motors</li>
+    <li>4 Light Detecting Resistors</li>
+    <li>10K Ohm Resistors</li>
+    <li>Bread Board</li>
+    <li>jumper wires</li>
+    <li>PCB</li>
+    <li>DHT 22</li>
+    <li>
     </ul>
