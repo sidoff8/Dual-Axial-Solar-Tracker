@@ -15,5 +15,7 @@
     <li>jumper wires</li>
     <li>PCB</li>
     <li>DHT 22</li>
-    <li>
+    <li>BH1750</li>
+    <li>Current Sensor</li>
+    <li>Voltage Sensor</li>
     </ul>
