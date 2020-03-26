@@ -19,3 +19,6 @@
     <li>Current Sensor</li>
     <li>Voltage Sensor</li>
     </ul>
+  <h2>Sensor System Circuit Diagram</h2>
+  <img src="https://i.ibb.co/r01KnXv/Screenshot-51.png">
+  
