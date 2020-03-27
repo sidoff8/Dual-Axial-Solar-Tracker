@@ -26,5 +26,6 @@
   <p>This Folder contains the Arduino File(.ino) for the Sensor System.Compile this file to your Arduino UNO r3 Board</p>
   <h3>Solar Tracker</h3>
   <p>This Folder also contains the Arduino File(.ino) for the Solar Tracker.Compile this file to your Arduino ATmega 2560 Board</p>
-  
+  <h3>csv_generator.py</h3>
+  <p>Run this file to communicate with python to store data in .csv file format<p> 
   
