@@ -21,4 +21,10 @@
     </ul>
   <h2>Sensor System Circuit Diagram</h2>
   <img src="https://i.ibb.co/r01KnXv/Screenshot-51.png">
+  <h2>File Info</h2>
+  <h3>Sensor System</h3>
+  <p>This Folder contains the Arduino File(.ino) for the Sensor System.Compile this file to your Arduino UNO r3 Board</p>
+  <h3>Solar Tracker</h3>
+  <p>This Folder also contains the Arduino File(.ino) for the Solar Tracker.Compile this file to your Arduino ATmega 2560 Board</p>
+  
   
