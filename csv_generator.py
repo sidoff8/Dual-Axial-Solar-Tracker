@@ -4,8 +4,8 @@ import csv
 arduinoData = serial.Serial('com4',115200)
 
 count=0
-with open("C:/Users/Pankaj Singh/Desktop/date27032020.csv", "w") as f1_input:
-    fieldnames = ['Irradiance', 'humidity','temp','voltage_dual_axis','current_dual_axis','voltage_single_axis','current_single_axis']
+with open("C:/Users/Sidharth Singh/Desktop/date27032020.csv", "w") as f1_input:
+    fieldnames = ['Irradiance', 'humidity','temp','voltage_dual_axis','current_dual_axis']
     writer = csv.DictWriter(f1_input, fieldnames=fieldnames)
     writer.writeheader()
     while True:
@@ -19,8 +19,6 @@ with open("C:/Users/Pankaj Singh/Desktop/date27032020.csv", "w") as f1_input:
         temp = float ( dataArray[2])
         volt1=float(dataArray[3])
         curr1= float(dataArray[4])
-        volt2=float(dataArray[5])
-        curr2= float(dataArray[6])
         print("light Intensity:",end='')
         print(lux,end='')
         print("w/m2   ",end='')
