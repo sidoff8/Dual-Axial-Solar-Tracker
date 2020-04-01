@@ -27,5 +27,6 @@
   <h3>Solar Tracker</h3>
   <p>This Folder also contains the Arduino File(.ino) for the Solar Tracker.Compile this file to your Arduino ATmega 2560 Board</p>
   <h3>csv_generator.py</h3>
-  <p>Run this file to communicate with python to store data in .csv file format<p> 
+  <p>Run this file to communicate with python to store data in .csv file format and also show the realtime reading on your python terminal<p> 
+  
   
